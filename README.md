@@ -50,4 +50,4 @@ You need Python installed.
 Run:
 
 ```bash
-python main.py
+python chaos_task_clicker.py
